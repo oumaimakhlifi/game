@@ -11,7 +11,6 @@ Ceci est **mon tout premier jeu** que j'ai créé avec beaucoup de passion. J'es
 
 ## Aperçu du Jeu
 
-![Aperçu du Jeu](mon-premier-jeu.png)
 
 ## Comment Jouer ? 🎮
 1. Utilisez les flèches du clavier pour déplacer le personnage.
@@ -23,10 +22,8 @@ Ceci est **mon tout premier jeu** que j'ai créé avec beaucoup de passion. J'es
 Voici quelques images de mon jeu :
 
 ### Écran d'accueil
-![Écran d'accueil](screen-accueil.png)
 
 ### Gameplay
-![Gameplay](screen-gameplay.png)
 
 ---
 
